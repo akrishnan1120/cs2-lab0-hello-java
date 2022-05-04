@@ -3,10 +3,10 @@ package hw;
 public class HelloWorld {
 
   public String getMessage() {
-    return "hello worlds";
+    return "hello world";
   }
 
   public int getYear() {
-    return 2017;
+    return 2018;
   }
 }
